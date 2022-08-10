@@ -1,0 +1,10 @@
+# Setting Google Oath
+
+    - Login kedalam Google
+    - Pada mesing pencarian ketikan google developer
+    - Create New Project
+    - Create OAuth consent screen
+    - Create Credentials
+    -  Pilih OAuth client ID
+    - Set Client ID, Secret dan Riderect
+    - Install Laravel Breeze
